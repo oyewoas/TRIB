@@ -1,0 +1,219 @@
+body {
+    background-image: url("../images/icode2.png");
+    background-repeat: no-repeat;
+    background-size: 1420px;
+    background-attachment: fixed;
+    background-position: center;
+    margin-top: 4px;
+    font-family: 'Lato', sans-serif;
+    color: rgb(68, 64, 64);
+}
+
+header {
+    background: url(..)
+}
+
+#head {
+    text-align: center;
+}
+
+#myNavbar {
+    color: rgb(68, 64, 64);
+}
+
+#menu {
+    position: sticky;
+}
+
+.navbar-inverse {
+    background: papayawhip;
+    /* background: rgb(224, 208, 192); */
+    /* background: rgb(82, 56, 9); */
+    /* border-color: rgb(255, 255, 255); */
+    border-color: rgb(82, 56, 9);
+    border-width: 1px;
+    border-radius: 6px;
+    /* box-shadow: 2px 2px rgb(105, 99, 99); */
+    font-size: 16px;
+    font-weight: 500;
+    /* position: sticky; */
+}
+
+h1 {
+    color: rgb(82, 56, 9);
+}
+
+#work {
+    margin-top: 120px;
+}
+
+.cent {
+    text-align: center;
+    background: papayawhip;
+    border-radius: 50px;
+}
+
+.site {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#formset {
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+#formset>input {
+    background-color: rgb(221, 199, 128);
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 4px solid rgb(250, 126, 117);
+    border-radius: 4px;
+}
+
+form {
+    border: 6px rgb(184, 178, 178);
+    border-radius: 6px;
+}
+
+.socicons {
+    margin-left: -130px;
+}
+
+.socicons :hover {
+    opacity: 0.8;
+}
+
+.facebook:hover {
+    opacity: 0.8;
+}
+
+#socialicons {
+    margin-top: 100px;
+    background-color: black;
+    border-radius: 10px;
+}
+
+#request {
+    background-color: rgb(78, 131, 230);
+    border-radius: 6px;
+    box-sizing: border-box;
+    border: none;
+    padding: 10px 16px;
+}
+
+#reques {
+    background-color: rgb(78, 131, 230);
+    border-radius: 6px;
+    box-sizing: border-box;
+    border: none;
+    padding: 10px 14px;
+    margin-top: 70px;
+}
+
+select {
+    width: 100%;
+    background-color: rgb(221, 199, 128);
+    border: 4px solid rgb(250, 126, 117);
+    padding: 12px 20px;
+    border-radius: 4px;
+    margin-bottom: 12px;
+}
+
+#meet {
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+#int {
+    text-transform: uppercase;
+    font-size: 55px;
+    color: rgb(82, 56, 9);
+    margin-top: 105px;
+    text-align: center;
+    font-weight: 650;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-shadow: 4px 4px 5px rgb(184, 178, 178);
+}
+
+#intro {
+    font-size: 30px;
+    color: rgb(68, 64, 64);
+    font-family: 'Crimson Text', serif;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.abtrib {
+    text-align: center;
+    margin-top: 70px;
+}
+
+.about {
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+#head {
+    margin-top: 70px;
+    margin-bottom: 40px;
+}
+
+#tri {
+    background: transparent;
+    /* background: rgb(82, 56, 9); */
+    color: papayawhip;
+    font-size: 2em;
+    padding: 10px 10px;
+    border: solid;
+    border-color: rgb(82, 56, 9);
+    border-width: 2px;
+    border-radius: 10px;
+}
+
+ul {
+    list-style: none;
+}
+
+.limarg {
+    margin-bottom: 5px;
+    font-size: 16px;
+}
+
+h4 {
+    font-size: 21px;
+}
+
+#meet {
+    margin-bottom: 5px;
+}
+
+hr {
+    color: rgb(19, 19, 18);
+    margin-top: -2px;
+}
+
+#down {
+    margin-top: 17px;
+    margin-bottom: 35px;
+}
+
+@media only screen and (max-width: 700px) {
+    .socicons,
+    .facebook {
+        margin: 10px;
+    }
+}
+
+
+/* #nav {
+    background-color: peru
+} */
+
+#follow {
+    /* text-align: center; */
+    font-size: 22px;
+}
